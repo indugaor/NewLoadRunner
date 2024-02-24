@@ -1,0 +1,47 @@
+Virtual User Script started at: 22-02-2024 16:02:59
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2023.0.0 for Windows 10; build 506 (Mar 08 2023 13:11:40)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36  	[MsgId: MMSG-26988]
+Runtime Settings file: "D:\LR Scripts\ThinkingDemo\Thinking-test-contact\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(3): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(3): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(5): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(5): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(7): web_url("thinking-tester-contact-list.herokuapp.com") started  	[MsgId: MMSG-26355]
+Action.c(7): Found resource "https://thinking-tester-contact-list.herokuapp.com/css/styles.css" in HTML "https://thinking-tester-contact-list.herokuapp.com/"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "https://thinking-tester-contact-list.herokuapp.com/img/thinkingTesterLogo.png" in HTML "https://thinking-tester-contact-list.herokuapp.com/"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "https://thinking-tester-contact-list.herokuapp.com/js/login.js" in HTML "https://thinking-tester-contact-list.herokuapp.com/"  	[MsgId: MMSG-26659]
+Action.c(7): web_url("thinking-tester-contact-list.herokuapp.com") was successful, 15841 body bytes, 3223 header bytes  	[MsgId: MMSG-26386]
+Action.c(16): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(16): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_custom_request("json") started  	[MsgId: MMSG-26355]
+Action.c(23): web_custom_request("json") was successful, 943 body bytes, 1147 header bytes  	[MsgId: MMSG-26386]
+Action.c(53): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(53): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(65): web_custom_request("login") started  	[MsgId: MMSG-26355]
+Action.c(65): web_custom_request("login") was successful, 287 body bytes, 982 header bytes  	[MsgId: MMSG-26386]
+Action.c(76): Toiken extracetd: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NWM5Y2IyN2QzNzc3NDAwMTM3M2YxMGMiLCJpYXQiOjE3MDg1OTc5ODJ9._85Kltt06cgFdlG9AsepqBwlQ8yryiQcw6CE6Nu4bXs
+Action.c(77): web_url("contactList") started  	[MsgId: MMSG-26355]
+Action.c(77): Found resource "https://thinking-tester-contact-list.herokuapp.com/css/styles.css" in HTML "https://thinking-tester-contact-list.herokuapp.com/contactList"  	[MsgId: MMSG-26659]
+Action.c(77): Found resource "https://thinking-tester-contact-list.herokuapp.com/img/thinkingTesterLogo.png" in HTML "https://thinking-tester-contact-list.herokuapp.com/contactList"  	[MsgId: MMSG-26659]
+Action.c(77): Found resource "https://thinking-tester-contact-list.herokuapp.com/js/contactList.js" in HTML "https://thinking-tester-contact-list.herokuapp.com/contactList"  	[MsgId: MMSG-26659]
+Action.c(77): web_url("contactList") was successful, 4709 body bytes, 3169 header bytes  	[MsgId: MMSG-26386]
+Action.c(85): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+Action.c(85): Warning -26593: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26593]
+Action.c(85): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(87): web_custom_request("contacts") started  	[MsgId: MMSG-26355]
+Action.c(87): web_custom_request("contacts") was successful, 792 body bytes, 755 header bytes  	[MsgId: MMSG-26386]
+Action.c(97): web_custom_request("json_2") started  	[MsgId: MMSG-26355]
+Action.c(97): web_custom_request("json_2") was successful, 171 body bytes, 703 header bytes  	[MsgId: MMSG-26386]
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

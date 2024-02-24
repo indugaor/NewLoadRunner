@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LR Scripts\TestynibblesSlon\Testynibbles
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ed:\lr scripts\testynibblesslon\testynibbles\\logfile.log
+d:\lr scripts\testynibblesslon\testynibbles\\combined_Testynibbles.c
+d:\lr scripts\testynibblesslon\testynibbles\\pre_cci.c

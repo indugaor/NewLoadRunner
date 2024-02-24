@@ -1,0 +1,11 @@
+[t54]
+FileName1=t54.txt
+URL1=https://incoming.telemetry.mozilla.org/submit/firefox-desktop/messaging-system/1/6d1d32c6-0b39-454a-9dba-4cc56cb6c6c1
+Total=1
+RequestHeaderFile=t54_RequestHeader.txt
+RequestBodyFile=t54_RequestBody.txt
+ResponseHeaderFile=t54_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_54.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

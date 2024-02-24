@@ -1,0 +1,15 @@
+[t14]
+FileName1=t14.html
+URL1=http://ocsp.digicert.com/
+Total=3
+RequestHeaderFile=t14_RequestHeader.txt
+RequestBodyFile=t14_RequestBody.txt
+ResponseHeaderFile=t14_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_14.xml
+FileName2=t14_theme.css
+URL2=https://www.tastynibbles.in/cdn/shop/t/12/assets/theme.css?v=88179064826295383661708612564
+FileName3=t14_theme.min.html
+URL3=https://www.tastynibbles.in/cdn/shop/t/12/assets/theme.min.js?v=142180294906365401511651758011
+[ProtocolInfo]
+ProtocolId=QTWeb

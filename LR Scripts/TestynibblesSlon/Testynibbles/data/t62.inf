@@ -1,0 +1,11 @@
+[t62]
+FileName1=t62.txt
+URL1=https://analytics.google.com/g/collect?v=2&tid=G-WCN3C8KG6R&gtm=45je42l0v887559890za200&_p=1708678870461&_gaz=1&gcd=13l3l3l3l1&npa=0&dma=0&cid=1009072370.1708678872&ul=en-gb&sr=1280x720&pscdl=noapi&_s=1&dp=%2F&dt=Tasty%20Nibbles%20-%20Ready%20to%20Eat%2C%20Canned%20Tuna%2C%20Fish%20Curries%20and%20more&dl=https%3A%2F%2Fwww.tastynibbles.in%2F&sid=1708678872&sct=1&seg=0&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=6238
+Total=1
+RequestHeaderFile=t62_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t62_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_62.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

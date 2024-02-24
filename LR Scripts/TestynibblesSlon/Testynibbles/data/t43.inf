@@ -1,0 +1,17 @@
+[t43]
+FileName1=t43.htm
+URL1=http://detectportal.firefox.com/canonical.html
+Total=4
+RequestHeaderFile=t43_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t43_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_43.xml
+FileName2=t43_jquery.min.html
+URL2=https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+FileName3=t43_js.html
+URL3=https://www.googletagmanager.com/gtag/js?id=G-WCN3C8KG6R&l=dataLayer&cx=c
+FileName4=t43_destination.html
+URL4=https://www.googletagmanager.com/gtag/destination?id=AW-378882101&l=dataLayer&cx=c
+[ProtocolInfo]
+ProtocolId=QTWeb

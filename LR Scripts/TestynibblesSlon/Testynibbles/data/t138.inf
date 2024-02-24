@@ -1,0 +1,17 @@
+[t138]
+FileName1=t138.htm
+URL1=http://detectportal.firefox.com/canonical.html
+Total=4
+RequestHeaderFile=t138_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t138_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_138.xml
+FileName2=t138_Backside_Ingredients_540x.webp
+URL2=https://www.tastynibbles.in/cdn/shop/files/Backside_Ingredients_540x.jpg?v=1702728997
+FileName3=t138_cart.html
+URL3=https://www.tastynibbles.in/cart.js?discos=true
+FileName4=t138_Backside_Ingredients_120x.webp
+URL4=https://www.tastynibbles.in/cdn/shop/files/Backside_Ingredients_120x.jpg?v=1702728997
+[ProtocolInfo]
+ProtocolId=QTWeb

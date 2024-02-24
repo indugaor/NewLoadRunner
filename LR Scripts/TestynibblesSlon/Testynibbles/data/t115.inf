@@ -1,0 +1,13 @@
+[t115]
+FileName1=t115.txt
+URL1=https://incoming.telemetry.mozilla.org/submit/telemetry/4cfe13bd-cc5c-4431-941e-450cf3e3c896/health/Firefox/122.0.1/release/20240205133611?v=4
+Total=2
+RequestHeaderFile=t115_RequestHeader.txt
+RequestBodyFile=t115_RequestBody.txt
+ResponseHeaderFile=t115_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_115.xml
+FileName2=t115_Backside_37231e8d-447f-4c9f-8e3c-4ac42c276dbd_360x.webp
+URL2=https://www.tastynibbles.in/cdn/shop/products/Backside_37231e8d-447f-4c9f-8e3c-4ac42c276dbd_360x.jpg?v=1655465492
+[ProtocolInfo]
+ProtocolId=QTWeb

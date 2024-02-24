@@ -1,0 +1,15 @@
+[t45]
+FileName1=t45.htm
+URL1=http://detectportal.firefox.com/canonical.html
+Total=3
+RequestHeaderFile=t45_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t45_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_45.xml
+FileName2=t45_Web-Banner-Chicken_900x.webp
+URL2=https://www.tastynibbles.in/cdn/shop/files/Web-Banner-Chicken_900x.jpg?v=1704434101
+FileName3=t45_New_launch_900x.webp
+URL3=https://www.tastynibbles.in/cdn/shop/files/New_launch_900x.jpg?v=1704434676
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,12 @@
+POST /submit/telemetry/18f07da6-da56-4569-863f-a077e28904c5/main/Firefox/109.0.1/release/20230127170202?v=4 HTTP/1.1
+Host: incoming.telemetry.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+Accept: */*
+Accept-Language: en-GB,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json; charset=UTF-8
+Date: Fri, 23 Feb 2024 09:02:05 GMT
+Content-Encoding: gzip
+Content-Length: 13641
+Connection: keep-alive
+

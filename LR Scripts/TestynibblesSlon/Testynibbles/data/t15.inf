@@ -1,0 +1,15 @@
+[t15]
+FileName1=t15.html
+URL1=http://ocsp.digicert.com/
+Total=3
+RequestHeaderFile=t15_RequestHeader.txt
+RequestBodyFile=t15_RequestBody.txt
+ResponseHeaderFile=t15_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_15.xml
+FileName2=t15_load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.html
+URL2=https://www.tastynibbles.in/cdn/shopifycloud/shopify/assets/storefront/load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.js
+FileName3=t15_features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.html
+URL3=https://www.tastynibbles.in/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js
+[ProtocolInfo]
+ProtocolId=QTWeb

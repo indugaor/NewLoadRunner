@@ -1,0 +1,15 @@
+[t95]
+FileName1=t95.json
+URL1=https://www.tastynibbles.in/apps/discos/configs?shop=tastynibbles.myshopify.com
+Total=3
+RequestHeaderFile=t95_RequestHeader.txt
+RequestBodyFile=t95_RequestBody.txt
+ResponseHeaderFile=t95_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_95.xml
+FileName2=t95_cart.html
+URL2=https://www.tastynibbles.in/cart.js?_=1708678920272
+FileName3=t95_magic-checkout.html
+URL3=https://checkout.razorpay.com/v1/magic-checkout.js
+[ProtocolInfo]
+ProtocolId=QTWeb

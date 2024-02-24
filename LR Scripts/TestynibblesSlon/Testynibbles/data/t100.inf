@@ -1,0 +1,13 @@
+[t100]
+FileName1=t100.html
+URL1=http://r3.o.lencr.org/
+Total=2
+RequestHeaderFile=t100_RequestHeader.txt
+RequestBodyFile=t100_RequestBody.txt
+ResponseHeaderFile=t100_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_100.xml
+FileName2=t100_ordersify-shopify.min.html
+URL2=https://cdn.ordersify.com/sdk/v2/ordersify-shopify.min.js?shop=tastynibbles.myshopify.com
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,13 @@
+[t3]
+SnapshotXmlFile=snapshot_3.xml
+ContentType=DummyContentType
+StepName=Custom Request: r3.o.lencr.org_3
+Total=1
+FileName1=t3.UNK
+RequestHeaderFile=t3_RequestHeader.txt
+ResponseHeaderFile=t3_ResponseHeader.txt
+RawStepEndTime=1708680275246
+RawStepName=r3.o.lencr.org_3
+RequestBodyFile=t3_RequestBody.txt
+RawStepStartTime=1708680275210
+URL1=http://r3.o.lencr.org/

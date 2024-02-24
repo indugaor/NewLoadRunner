@@ -1,0 +1,13 @@
+[t14]
+SnapshotXmlFile=snapshot_14.xml
+ContentType=text/html
+StepName=Custom Request: ecc95c64-c10d-428f-b6aa-80db7d253a15
+Total=1
+FileName1=t14.html
+RequestHeaderFile=t14_RequestHeader.txt
+ResponseHeaderFile=t14_ResponseHeader.txt
+RawStepEndTime=1708680277994
+RawStepName=ecc95c64-c10d-428f-b6aa-80db7d253a15
+RequestBodyFile=t14_RequestBody.txt
+RawStepStartTime=1708680277618
+URL1=https://incoming.telemetry.mozilla.org/submit/firefox-desktop/events/1/ecc95c64-c10d-428f-b6aa-80db7d253a15

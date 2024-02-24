@@ -1,0 +1,15 @@
+[t56]
+FileName1=t56.htm
+URL1=http://detectportal.firefox.com/canonical.html
+Total=3
+RequestHeaderFile=t56_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t56_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_56.xml
+FileName2=t56_Brand_logo_Tasty_nibbles-01_575ef6d1-1653-4b3c-b8fe-e3fb05f76ed1_32x32.webp
+URL2=https://www.tastynibbles.in/cdn/shop/files/Brand_logo_Tasty_nibbles-01_575ef6d1-1653-4b3c-b8fe-e3fb05f76ed1_32x32.png?v=1652345831
+FileName3=t56_magic-checkout.html
+URL3=https://checkout.razorpay.com/v1/magic-checkout.js
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,17 @@
+[t105]
+FileName1=t105.html
+URL1=http://ocsp.r2m01.amazontrust.com/
+Total=4
+RequestHeaderFile=t105_RequestHeader.txt
+RequestBodyFile=t105_RequestBody.txt
+ResponseHeaderFile=t105_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_105.xml
+FileName2=t105_easyidiyappamriceflour1kg_2_360x.webp
+URL2=https://www.tastynibbles.in/cdn/shop/files/easyidiyappamriceflour1kg_2_360x.jpg?v=1705487767
+FileName3=t105_Backside_c0aa7790-f0ca-4a2d-bc3f-a75e7aabc086_360x.webp
+URL3=https://www.tastynibbles.in/cdn/shop/products/Backside_c0aa7790-f0ca-4a2d-bc3f-a75e7aabc086_360x.jpg?v=1659091515
+FileName4=t105_Backside_494f4a12-6b89-496d-9e93-2cc2a3fa8e10_360x.webp
+URL4=https://www.tastynibbles.in/cdn/shop/files/Backside_494f4a12-6b89-496d-9e93-2cc2a3fa8e10_360x.jpg?v=1693585185
+[ProtocolInfo]
+ProtocolId=QTWeb

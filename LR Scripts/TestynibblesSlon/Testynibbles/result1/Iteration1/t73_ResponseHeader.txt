@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Fri, 23 Feb 2024 09:25:04 GMT
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: keep-alive
+Cache-Control: s-maxage=3600, public, no-transform, must-revalidate
+Last-Modified: Thu, 22 Feb 2024 07:11:51 GMT
+CF-Cache-Status: HIT
+Age: 1422
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 859e6b5ddf16a8ff-MAA
+

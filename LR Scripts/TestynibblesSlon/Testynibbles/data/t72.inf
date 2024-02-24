@@ -1,0 +1,13 @@
+[t72]
+FileName1=t72.html
+URL1=http://ocsp.r2m03.amazontrust.com/
+Total=2
+RequestHeaderFile=t72_RequestHeader.txt
+RequestBodyFile=t72_RequestBody.txt
+ResponseHeaderFile=t72_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_72.xml
+FileName2=t72_checkout-frame.modern.html
+URL2=https://checkout-static-next.razorpay.com/build/c5263b5e5d10b84ea8625c0bd8234ed5ee57d39d/checkout-frame.modern.js
+[ProtocolInfo]
+ProtocolId=QTWeb

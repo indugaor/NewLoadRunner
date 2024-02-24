@@ -1,0 +1,7 @@
+"{\"metadata\":{\"event_sent_at_ms\":1708678961278},\"events\":[{\"schema_id\":\"web_pixels_man"
+"ager_unload/1.2\",\"payload\":{\"version\":\"0.0.444\",\"bundle_target\":\"modern\",\"page_url"
+"\":\"https://www.tastynibbles.in/collections/grocery\",\"shop_id\":55925866671,\"surface\":\"s"
+"torefront-renderer\",\"is_completed\":\"true\",\"runtime_error_caught\":\"false\",\"user_can_b"
+"e_tracked\":\"true\",\"session_id\":\"7a626bab-f224-4e28-9f95-4c98b69e873a\",\"run_time_durati"
+"on\":506,\"start_time\":779,\"page_duration\":42347},\"metadata\":{\"event_created_at_ms\":170"
+"8678961277}}]}"

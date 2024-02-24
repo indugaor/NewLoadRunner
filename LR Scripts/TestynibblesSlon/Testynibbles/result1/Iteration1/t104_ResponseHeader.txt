@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Fri, 23 Feb 2024 09:25:17 GMT
+Content-Type: application/ocsp-response
+Content-Length: 5
+Connection: keep-alive
+X-CCACDN-Proxy-ID: mcdpinlb4
+X-Frame-Options: SAMEORIGIN
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+CF-RAY: 859e6bae09277ea6-MAA
+

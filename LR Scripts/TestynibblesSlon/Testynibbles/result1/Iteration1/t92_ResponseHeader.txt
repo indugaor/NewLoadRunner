@@ -1,0 +1,35 @@
+HTTP/2.0 200
+Status: 200
+date: Fri, 23 Feb 2024 09:25:12 GMT
+content-type: application/json; charset=utf-8
+vary: Accept-Encoding
+vary: Accept
+x-sorting-hat-podid: 174
+x-sorting-hat-shopid: 55925866671
+set-cookie: secure_customer_sig=; path=/; expires=Sun, 23 Feb 2025 09:25:11 GMT; secure; HttpOnly; SameSite=Lax
+set-cookie: _shopify_s=c52ce375-02dd-4d8f-91b2-c00288ef8ce3; Expires=Fri, 23-Feb-24 09:55:11 GMT; Domain=tastynibbles.in; Path=/; SameSite=Lax
+set-cookie: _shopify_y=a276e69c-f517-4b0b-b32c-6061d8607d47; Expires=Sat, 22-Feb-25 09:25:11 GMT; Domain=tastynibbles.in; Path=/; SameSite=Lax
+etag: W/"5b51674f6809044b5f979a6a0adaf57b"
+x-xss-protection: 0
+x-content-type-options: nosniff
+x-permitted-cross-domain-policies: none
+referrer-policy: strict-origin-when-cross-origin
+x-download-options: noopen
+access-control-expose-headers: X-Shopify-API-Request-Failure-Reauthorize-Url
+cache-control: max-age=0, private, must-revalidate
+x-runtime: 0.046270
+x-dc: gcp-asia-south1,gcp-asia-south1
+x-request-id: e561c665-dc8d-49ab-a83f-c0b335c10dfa
+x-frame-options: SAMEORIGIN
+content-security-policy: frame-ancestors https://tastynibbles.myshopify.com https://admin.shopify.com
+access-control-allow-headers: Authorization
+access-control-allow-origin: *
+content-encoding: gzip
+cf-cache-status: DYNAMIC
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=qc34bQTxOYREDRheNuTWRYEo312bIYgSk8iyBjESjWuYTKt9K4Q7zfqKYvWqBdVXyaVcF1e7TrCNU9TYlN9xYXNdAU0uGpZydN17XvkWI3CDRyRkfKt9HT0WCfAajoNcgHCSW0k%3D"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+server-timing: cfRequestDuration;dur=1016.999722
+server: cloudflare
+cf-ray: 859e6b88efca29f3-BOM
+alt-svc: h3=":443"; ma=86400
+

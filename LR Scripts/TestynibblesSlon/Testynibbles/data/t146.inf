@@ -1,0 +1,11 @@
+[t146]
+FileName1=t146.txt
+URL1=https://www.merchant-center-analytics.goog/mc/collect?v=2&tid=MC-Y41CDBPZ5C&gtm=45ve42l0v9122332314za200&_p=1708678961847&gcd=13l3l3l3l1&npa=0&dma=0&cid=1009072370.1708678872&ul=en-gb&sr=1280x720&pscdl=noapi&dt=Jaggery%20Powder%20500g%20%E2%80%93%20Tasty%20Nibbles&dl=https%3A%2F%2Fwww.tastynibbles.in%2Fproducts%2Fjaggery-powder-500g&sid=1708678873&sct=1&seg=1&dr=https%3A%2F%2Fwww.tastynibbles.in%2Fcollections%2Fgrocery&_s=1&tfd=6652
+Total=1
+RequestHeaderFile=t146_RequestHeader.txt
+RequestBodyFile=t146_RequestBody.txt
+ResponseHeaderFile=t146_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_146.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

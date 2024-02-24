@@ -1,0 +1,44 @@
+HTTP/2.0 200
+Status: 200
+date: Fri, 23 Feb 2024 09:25:18 GMT
+content-type: text/html; charset=utf-8
+x-sorting-hat-podid: 174
+x-sorting-hat-shopid: 55925866671
+x-storefront-renderer-rendered: 1
+set-cookie: keep_alive=139c5bc1-cbaa-4654-bf53-fc222c73e368; path=/; expires=Fri, 23 Feb 2024 09:55:17 GMT; HttpOnly; SameSite=Lax
+set-cookie: secure_customer_sig=; path=/; expires=Sun, 23 Feb 2025 09:25:18 GMT; secure; HttpOnly; SameSite=Lax
+set-cookie: localization=IN; path=/; expires=Sun, 23 Feb 2025 09:25:18 GMT; SameSite=Lax
+set-cookie: _cmp_a=%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=tastynibbles.in; path=/; expires=Sat, 24 Feb 2024 09:25:18 GMT; SameSite=Lax
+set-cookie: _shopify_y=a276e69c-f517-4b0b-b32c-6061d8607d47; Expires=Sat, 22-Feb-25 09:25:18 GMT; Domain=tastynibbles.in; Path=/; SameSite=Lax
+set-cookie: _shopify_s=c52ce375-02dd-4d8f-91b2-c00288ef8ce3; Expires=Fri, 23-Feb-24 09:55:18 GMT; Domain=tastynibbles.in; Path=/; SameSite=Lax
+set-cookie: _orig_referrer=https%3A%2F%2Fwww.tastynibbles.in%2Fcollections%2Fgrocery; Expires=Fri, 08-Mar-24 09:25:18 GMT; Domain=tastynibbles.in; Path=/; HttpOnly; SameSite=Lax
+set-cookie: _landing_page=%2Fproducts%2Ftnb-matta-rice-kg%3Fview%3Dmodal; Expires=Fri, 08-Mar-24 09:25:18 GMT; Domain=tastynibbles.in; Path=/; HttpOnly; SameSite=Lax
+link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+etag: "cacheable:eac612bfe70e64cc76b00adc09fe5fbc"
+content-encoding: gzip
+x-cache: miss
+x-frame-options: DENY
+content-security-policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+access-control-allow-origin: *
+strict-transport-security: max-age=7889238
+x-shopid: 55925866671
+x-shardid: 174
+vary: Accept
+content-language: en
+powered-by: Shopify
+server-timing: processing;dur=124;desc="gc:62", db;dur=27, parse;dur=1, asn;desc="10029", edge;desc="BOM", country;desc="IN", theme;desc="130040463535", pageType;desc="product", servedBy;desc="hfnd", requestID;desc="e317a103-1890-4915-bd23-1070d06edc15"
+x-shopify-stage: production
+x-dc: gcp-asia-south1,gcp-asia-southeast1,gcp-asia-southeast1
+x-request-id: e317a103-1890-4915-bd23-1070d06edc15
+x-download-options: noopen
+x-xss-protection: 1; mode=block
+x-permitted-cross-domain-policies: none
+x-content-type-options: nosniff
+cf-cache-status: DYNAMIC
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=gVzieUe3LjdBfbSJCd9DMIAQkzleMkTRcUzFgbgZpbZfDLh2U9JRHNXtW8dagJPVrpLjUBAA5JXnBgQ7aRsgz2ZUyEX5Iyt4zMCDiSQroiGgQDKELK4Xz3FIyB28a8KGqdbrrf4%3D"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+server-timing: cfRequestDuration;dur=201.999903
+server: cloudflare
+cf-ray: 859e6bb2bf1d29f3-BOM
+alt-svc: h3=":443"; ma=86400
+

@@ -1,0 +1,13 @@
+[t22]
+SnapshotXmlFile=snapshot_22.xml
+ContentType=text/html
+StepName=Custom Request: 4acc65dd-ef25-4c5a-9bca-ad903c9b2274
+Total=1
+FileName1=t22.html
+RequestHeaderFile=t22_RequestHeader.txt
+ResponseHeaderFile=t22_ResponseHeader.txt
+RawStepEndTime=1708680282183
+RawStepName=4acc65dd-ef25-4c5a-9bca-ad903c9b2274
+RequestBodyFile=t22_RequestBody.txt
+RawStepStartTime=1708680281878
+URL1=https://incoming.telemetry.mozilla.org/submit/firefox-desktop/use-counters/1/4acc65dd-ef25-4c5a-9bca-ad903c9b2274

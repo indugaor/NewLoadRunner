@@ -1,0 +1,17 @@
+[t89]
+FileName1=t89.html
+URL1=https://www.tastynibbles.in/.well-known/shopify/monorail/unstable/produce_batch
+Total=4
+RequestHeaderFile=t89_RequestHeader.txt
+RequestBodyFile=t89_RequestBody.txt
+ResponseHeaderFile=t89_ResponseHeader.txt
+ContentType=image/avif
+SnapshotXmlFile=snapshot_89.xml
+FileName2=t89_Frontside_e7f15f4c-e926-4631-a1b9-bd770635efe9_280x.avif
+URL2=https://www.tastynibbles.in/cdn/shop/files/Frontside_e7f15f4c-e926-4631-a1b9-bd770635efe9_280x.jpg?v=1702728997
+FileName3=t89_Frontside_1_280x.avif
+URL3=https://www.tastynibbles.in/cdn/shop/files/Frontside_1_280x.jpg?v=1697285649
+FileName4=t89_Jaggerypowder300g_280x.avif
+URL4=https://www.tastynibbles.in/cdn/shop/files/Jaggerypowder300g_280x.jpg?v=1699946408
+[ProtocolInfo]
+ProtocolId=QTWeb

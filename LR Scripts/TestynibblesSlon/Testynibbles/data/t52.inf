@@ -1,0 +1,13 @@
+[t52]
+FileName1=t52.htm
+URL1=http://detectportal.firefox.com/canonical.html
+Total=2
+RequestHeaderFile=t52_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t52_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_52.xml
+FileName2=t52_jquery.min.html
+URL2=https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js
+[ProtocolInfo]
+ProtocolId=QTWeb

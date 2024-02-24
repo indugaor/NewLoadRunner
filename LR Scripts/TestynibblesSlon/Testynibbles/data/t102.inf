@@ -1,0 +1,15 @@
+[t102]
+FileName1=t102_public.htm
+URL1=https://api.razorpay.com/v1/checkout/public?traffic_env=baseline&build=c5263b5e5d10b84ea8625c0bd8234ed5ee57d39d&modern=1&unified_lite=1&magic_script=1&merchant_key=rzp_live_UiTUCACnTlsjdB&magic_shopify_key=rzp_live_UiTUCACnTlsjdB&mode=live&session_token=D767013B77A6E1CA56C399935E07A34A8653DED09D58000DDB8E00219C9EE437C3D830940A0C6E16694F87597E270288980ECECFE17061F7C6FC084251C6BCD3FF72FDF878B06D7F157F1901B74929FBB7642C4A329B58B314C997E845DFA30E51B30E066AEB6E5527B0444A2F24C6D8202BF0368622F2890947CBC7B75CA4D3E532067D782C8D5F638EE21CB7E5932D5A1367
+Total=3
+ContentType=text/html
+SnapshotXmlFile=snapshot_102.xml
+RequestHeaderFile=t102_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t102_ResponseHeader.txt
+FileName2=t102_installed.html
+URL2=https://cdn1.judge.me/assets/installed.js?shop=tastynibbles.myshopify.com
+FileName3=t102_Backside_Ingredients_360x.webp
+URL3=https://www.tastynibbles.in/cdn/shop/files/Backside_Ingredients_360x.jpg?v=1702728997
+[ProtocolInfo]
+ProtocolId=QTWeb

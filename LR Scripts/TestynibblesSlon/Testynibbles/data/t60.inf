@@ -1,0 +1,13 @@
+[t60]
+FileName1=t60.html
+URL1=https://lumberjack.razorpay.com/v1/track
+Total=2
+RequestHeaderFile=t60_RequestHeader.txt
+RequestBodyFile=t60_RequestBody.txt
+ResponseHeaderFile=t60_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_60.xml
+FileName2=t60_success.txt
+URL2=http://detectportal.firefox.com/success.txt?ipv4
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t113]
+FileName1=t113.txt
+URL1=https://incoming.telemetry.mozilla.org/submit/telemetry/73e76f56-ae3b-4127-90b5-e078807a2df6/event/Firefox/123.0/release/20240213221259?v=4
+Total=1
+RequestHeaderFile=t113_RequestHeader.txt
+RequestBodyFile=t113_RequestBody.txt
+ResponseHeaderFile=t113_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_113.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

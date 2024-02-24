@@ -1,0 +1,15 @@
+[t65]
+FileName1=t65.htm
+URL1=http://detectportal.firefox.com/canonical.html
+Total=3
+RequestHeaderFile=t65_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t65_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_65.xml
+FileName2=t65_ga-audiences.gif
+URL2=https://www.google.co.in/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-WCN3C8KG6R&cid=1009072370.1708678872&gtm=45je42l0v887559890za200&aip=1&dma=0&gcd=13l3l3l3l1&npa=0&z=1246993384
+FileName3=t65_success.txt
+URL3=http://detectportal.firefox.com/success.txt?ipv4
+[ProtocolInfo]
+ProtocolId=QTWeb

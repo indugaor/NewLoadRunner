@@ -1,0 +1,15 @@
+[t40]
+FileName1=t40.html
+URL1=http://e1.o.lencr.org/
+Total=3
+RequestHeaderFile=t40_RequestHeader.txt
+RequestBodyFile=t40_RequestBody.txt
+ResponseHeaderFile=t40_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_40.xml
+FileName2=t40_success.txt
+URL2=http://detectportal.firefox.com/success.txt?ipv4
+FileName3=t40_gtm.html
+URL3=https://www.googletagmanager.com/gtm.js?id=GTM-5N29RKV
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,13 @@
+[t110]
+FileName1=t110_tnb-matta-rice-kg.htm
+URL1=https://www.tastynibbles.in/products/tnb-matta-rice-kg?view=modal
+Total=2
+ContentType=text/html
+SnapshotXmlFile=snapshot_110.xml
+RequestHeaderFile=t110_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t110_ResponseHeader.txt
+FileName2=t110_Macaroni400gBackside_360x.webp
+URL2=https://www.tastynibbles.in/cdn/shop/files/Macaroni400gBackside_360x.jpg?v=1693585073
+[ProtocolInfo]
+ProtocolId=QTWeb

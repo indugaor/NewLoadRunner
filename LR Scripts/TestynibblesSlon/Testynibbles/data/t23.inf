@@ -1,0 +1,17 @@
+[t23]
+FileName1=t23.html
+URL1=http://e1.o.lencr.org/
+Total=4
+RequestHeaderFile=t23_RequestHeader.txt
+RequestBodyFile=t23_RequestBody.txt
+ResponseHeaderFile=t23_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_23.xml
+FileName2=t23_sca_affiliate.html
+URL2=https://www.tastynibbles.in/cdn/shop/t/12/assets/sca_affiliate.js?v=2076242293115890491652863580
+FileName3=t23_preloads.html
+URL3=https://shop.app/checkouts/internal/preloads.js?permanent-domain=tastynibbles.myshopify.com&locale=en-IN
+FileName4=t23_vendor-scripts-v1.html
+URL4=https://www.tastynibbles.in/cdn/shop/t/12/assets/vendor-scripts-v1.js
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,15 @@
+[t154]
+FileName1=t154.html
+URL1=https://www.tastynibbles.in/.well-known/shopify/monorail/unstable/produce_batch
+Total=3
+RequestHeaderFile=t154_RequestHeader.txt
+RequestBodyFile=t154_RequestBody.txt
+ResponseHeaderFile=t154_ResponseHeader.txt
+ContentType=text/javascript
+SnapshotXmlFile=snapshot_154.xml
+FileName2=t154_cart.html
+URL2=https://www.tastynibbles.in/cart.js?discos=true
+FileName3=t154_cart.html
+URL3=https://www.tastynibbles.in/cart.js?_=1708678963939
+[ProtocolInfo]
+ProtocolId=QTWeb

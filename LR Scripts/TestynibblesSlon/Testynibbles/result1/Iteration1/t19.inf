@@ -1,0 +1,13 @@
+[t19]
+SnapshotXmlFile=snapshot_19.xml
+ContentType=DummyContentType
+StepName=Custom Request: e1.o.lencr.org_2
+Total=1
+FileName1=t19.UNK
+RequestHeaderFile=t19_RequestHeader.txt
+ResponseHeaderFile=t19_ResponseHeader.txt
+RawStepEndTime=1708680281704
+RawStepName=e1.o.lencr.org_2
+RequestBodyFile=t19_RequestBody.txt
+RawStepStartTime=1708680281671
+URL1=http://e1.o.lencr.org/

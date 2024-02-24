@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LR Scripts\ThinkingDemo\Thinking-test-contact
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ed:\lr scripts\thinkingdemo\thinking-test-contact\\logfile.log
+d:\lr scripts\thinkingdemo\thinking-test-contact\\combined_Thinking-test-contact.c
+d:\lr scripts\thinkingdemo\thinking-test-contact\\pre_cci.c

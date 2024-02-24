@@ -1,0 +1,13 @@
+[t82]
+FileName1=t82.html
+URL1=https://www.tastynibbles.in/.well-known/shopify/monorail/unstable/produce_batch
+Total=2
+RequestHeaderFile=t82_RequestHeader.txt
+RequestBodyFile=t82_RequestBody.txt
+ResponseHeaderFile=t82_ResponseHeader.txt
+ContentType=image/svg+xml
+SnapshotXmlFile=snapshot_82.xml
+FileName2=t82_ico-select.svg
+URL2=https://www.tastynibbles.in/cdn/shop/t/12/assets/ico-select.svg
+[ProtocolInfo]
+ProtocolId=QTWeb

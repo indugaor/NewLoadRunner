@@ -1,0 +1,13 @@
+[t8]
+FileName1=t8.htm
+URL1=https://www.tastynibbles.in/
+Total=2
+ContentType=text/html
+SnapshotXmlFile=snapshot_8.xml
+RequestHeaderFile=t8_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t8_ResponseHeader.txt
+FileName2=t8.html
+URL2=https://push.services.mozilla.com/
+[ProtocolInfo]
+ProtocolId=QTWeb

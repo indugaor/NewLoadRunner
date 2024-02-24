@@ -1,0 +1,42 @@
+HTTP/2.0 200
+Status: 200
+date: Fri, 23 Feb 2024 09:25:24 GMT
+content-type: text/html; charset=utf-8
+x-sorting-hat-podid: 174
+x-sorting-hat-shopid: 55925866671
+x-storefront-renderer-rendered: 1
+set-cookie: keep_alive=6a4480c3-7162-4de2-9f13-5eaf1bc7da3a; path=/; expires=Fri, 23 Feb 2024 09:55:23 GMT; HttpOnly; SameSite=Lax
+set-cookie: secure_customer_sig=; path=/; expires=Sun, 23 Feb 2025 09:25:24 GMT; secure; HttpOnly; SameSite=Lax
+set-cookie: localization=IN; path=/; expires=Sun, 23 Feb 2025 09:25:24 GMT; SameSite=Lax
+set-cookie: _cmp_a=%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=tastynibbles.in; path=/; expires=Sat, 24 Feb 2024 09:25:24 GMT; SameSite=Lax
+set-cookie: _shopify_y=a276e69c-f517-4b0b-b32c-6061d8607d47; Expires=Sat, 22-Feb-25 09:25:24 GMT; Domain=tastynibbles.in; Path=/; SameSite=Lax
+set-cookie: _shopify_s=c52ce375-02dd-4d8f-91b2-c00288ef8ce3; Expires=Fri, 23-Feb-24 09:55:24 GMT; Domain=tastynibbles.in; Path=/; SameSite=Lax
+link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+etag: "cacheable:32cbda781b6fbb53be2bffc3c8983148"
+content-encoding: gzip
+x-cache: miss
+x-frame-options: DENY
+content-security-policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+access-control-allow-origin: *
+strict-transport-security: max-age=7889238
+x-shopid: 55925866671
+x-shardid: 174
+vary: Accept
+content-language: en
+powered-by: Shopify
+server-timing: processing;dur=319;desc="gc:72", db;dur=77, parse;dur=5, render;dur=60, asn;desc="10029", edge;desc="BOM", country;desc="IN", theme;desc="130040463535", pageType;desc="product", servedBy;desc="cgqd", requestID;desc="08913812-b1c5-428e-916a-ae0a53399fb4"
+x-shopify-stage: production
+x-dc: gcp-asia-south1,gcp-asia-southeast1,gcp-asia-southeast1
+x-request-id: 08913812-b1c5-428e-916a-ae0a53399fb4
+x-download-options: noopen
+x-content-type-options: nosniff
+x-permitted-cross-domain-policies: none
+x-xss-protection: 1; mode=block
+cf-cache-status: DYNAMIC
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=oquNlHXQxTfjp2S419V2SsBRkLrrTd%2FyheZ4aHsgoio8%2BdgyYoStSmgRG2A4W14ZIKCx%2B483SZvZFhYMaopLsVOx53xN15XE5OI8TQEhMt3qUvyZU2gKOJrXS9%2BHtw6aztENm4Q%3D"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+server-timing: cfRequestDuration;dur=412.000179
+server: cloudflare
+cf-ray: 859e6bd7583429f3-BOM
+alt-svc: h3=":443"; ma=86400
+

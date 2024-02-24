@@ -1,0 +1,20 @@
+[t2]
+FileName2=t1_2_thinkingTesterLogo.png
+RawStepEndTime=1708597982438
+FileName4=t1_0_login.UNK
+RequestBodyFile=t2_RequestBody.txt
+RawStepName=json
+ContentType=application/json
+URL1=https://update.googleapis.com/service/update2/json?cup2key=13:lXNfubQsqabxpg4eri_YTEJrXJWsuOtJaOeczbJopHw&cup2hreq=f1c5fa71982069f49156415202bb900fa0c0bd444df4f07441087b564c34e65a
+URL2=https://thinking-tester-contact-list.herokuapp.com/img/thinkingTesterLogo.png
+URL3=https://thinking-tester-contact-list.herokuapp.com/css/styles.css
+ResponseHeaderFile=t2_ResponseHeader.txt
+URL4=https://thinking-tester-contact-list.herokuapp.com/js/login.js
+SnapshotXmlFile=snapshot_2.xml
+RequestHeaderFile=t2_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1708597982047
+Total=4
+StepName=Custom Request: json
+FileName1=t2.json
+FileName3=t1_1_styles.css

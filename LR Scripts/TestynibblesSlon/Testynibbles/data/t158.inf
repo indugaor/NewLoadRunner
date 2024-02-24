@@ -1,0 +1,13 @@
+[t158]
+FileName1=t158.html
+URL1=https://www.tastynibbles.in/.well-known/shopify/monorail/unstable/produce_batch
+Total=2
+RequestHeaderFile=t158_RequestHeader.txt
+RequestBodyFile=t158_RequestBody.txt
+ResponseHeaderFile=t158_ResponseHeader.txt
+ContentType=image/avif
+SnapshotXmlFile=snapshot_158.xml
+FileName2=t158_Frontside_e7f15f4c-e926-4631-a1b9-bd770635efe9_180x.avif
+URL2=https://www.tastynibbles.in/cdn/shop/files/Frontside_e7f15f4c-e926-4631-a1b9-bd770635efe9_180x.jpg?v=1702728997
+[ProtocolInfo]
+ProtocolId=QTWeb

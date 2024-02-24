@@ -1,0 +1,13 @@
+[t144]
+FileName1=t144.html
+URL1=https://www.tastynibbles.in/.well-known/shopify/monorail/v1/produce
+Total=2
+RequestHeaderFile=t144_RequestHeader.txt
+RequestBodyFile=t144_RequestBody.txt
+ResponseHeaderFile=t144_ResponseHeader.txt
+ContentType=text/javascript
+SnapshotXmlFile=snapshot_144.xml
+FileName2=t144_cart.html
+URL2=https://www.tastynibbles.in/cart.js
+[ProtocolInfo]
+ProtocolId=QTWeb

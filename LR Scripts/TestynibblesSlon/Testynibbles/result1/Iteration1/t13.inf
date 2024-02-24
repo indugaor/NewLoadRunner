@@ -1,0 +1,13 @@
+[t13]
+SnapshotXmlFile=snapshot_13.xml
+ContentType=DummyContentType
+StepName=Custom Request: ocsp.digicert.com_2
+Total=1
+FileName1=t13.UNK
+RequestHeaderFile=t13_RequestHeader.txt
+ResponseHeaderFile=t13_ResponseHeader.txt
+RawStepEndTime=1708680277586
+RawStepName=ocsp.digicert.com_2
+RequestBodyFile=t13_RequestBody.txt
+RawStepStartTime=1708680277556
+URL1=http://ocsp.digicert.com/

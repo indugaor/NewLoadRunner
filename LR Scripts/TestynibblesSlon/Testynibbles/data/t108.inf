@@ -1,0 +1,11 @@
+[t108]
+FileName1=t108.txt
+URL1=https://www.merchant-center-analytics.goog/mc/collect?v=2&tid=MC-Y41CDBPZ5C&gtm=45ve42l0v9122332314za200&_p=1708678919094&gcd=13l3l3l3l1&npa=0&dma=0&cid=1009072370.1708678872&ul=en-gb&sr=1280x720&pscdl=noapi&_s=1&dp=%2Fcollections%2Fgrocery&dt=Grocery%20%E2%80%93%20Tasty%20Nibbles&dl=https%3A%2F%2Fwww.tastynibbles.in%2Fcollections%2Fgrocery&sid=1708678873&sct=1&seg=1&dr=https%3A%2F%2Fwww.tastynibbles.in%2F&en=page_view&_ee=1&tfd=6475
+Total=1
+RequestHeaderFile=t108_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t108_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_108.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,13 @@
+[t7]
+SnapshotXmlFile=snapshot_7.xml
+ContentType=DummyContentType
+StepName=Url: www.tastynibbles.in
+Total=1
+FileName1=t7.UNK
+RequestHeaderFile=t7_RequestHeader.txt
+ResponseHeaderFile=t7_ResponseHeader.txt
+RawStepEndTime=1708680276092
+RawStepName=www.tastynibbles.in
+RequestBodyFile=t7_RequestBody.txt
+RawStepStartTime=1708680275498
+URL1=https://www.tastynibbles.in/

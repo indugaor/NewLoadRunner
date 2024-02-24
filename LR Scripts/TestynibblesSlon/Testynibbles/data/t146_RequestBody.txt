@@ -1,0 +1,5 @@
+"en=page_view&_ee=1&dp=%2Fcollections%2Fgrocery%2Fproducts%2Fjaggery-powder-500g\r\n"
+"en=view_item&_ee=1&pr1=idshopify_IN_7676412035247_42966895001775~nmJaggery%20Powder%20500g%20-"
+"%20Pack%201~brTasty%20Nibbles~ca~pr90.00~vaPack%201&ep.ecomm_prodid=shopify_IN_7676412035247_4"
+"2966895001775&ep.ecomm_totalvalue=NaN&ep.ecomm_pagetype=product&_et=1&dl=https%3A%2F%2Fwww.tas"
+"tynibbles.in%2Fcollections%2Fgrocery%2Fproducts%2Fjaggery-powder-500g"

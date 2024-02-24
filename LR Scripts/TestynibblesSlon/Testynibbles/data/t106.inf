@@ -1,0 +1,17 @@
+[t106]
+FileName1=t106_jaggery-powder-500g.htm
+URL1=https://www.tastynibbles.in/products/jaggery-powder-500g?view=modal
+Total=4
+ContentType=text/html
+SnapshotXmlFile=snapshot_106.xml
+RequestHeaderFile=t106_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t106_ResponseHeader.txt
+FileName2=t106_Backside_5dfda15b-4723-41a5-9e64-42550c4344a7_360x.webp
+URL2=https://www.tastynibbles.in/cdn/shop/files/Backside_5dfda15b-4723-41a5-9e64-42550c4344a7_360x.jpg?v=1684049425
+FileName3=t106_Backside_Ingredients_800x.webp
+URL3=https://www.tastynibbles.in/cdn/shop/files/Backside_Ingredients_800x.jpg?v=1702728997
+FileName4=t106_Backside_3f919b8f-7b4d-465e-8697-16937a4551c4_360x.webp
+URL4=https://www.tastynibbles.in/cdn/shop/products/Backside_3f919b8f-7b4d-465e-8697-16937a4551c4_360x.jpg?v=1655464252
+[ProtocolInfo]
+ProtocolId=QTWeb
